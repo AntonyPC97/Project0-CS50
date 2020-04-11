@@ -2,3 +2,5 @@ Flask
 Flask-Session
 psycopg2-binary
 SQLAlchemy
+
+export DATABASE_URL=postgres://qnoyeqzbyhguyo:9045655718d1a3d54d4059de8a39f3c4563491fef4cbfb52917d2066b1937024@ec2-54-157-78-113.compute-1.amazonaws.com:5432/d4j0mlpmf0hfi1
